@@ -31,6 +31,10 @@ That's it!
 This project has adopted Willowgreen's Open Source Code of Conduct, which can be found [under the *Documents* heading on Willowgreen's Open Source page](https://willowgreen.io/opensource). Please do not hesitate to contact [opensource@willowgreen.io](mailto:opensource@willowgreen.io) if you have any queries, comments, or concerns.
 
 
+## Licensing
+This repository is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/willowgreengroup/devops-scripts/blob/master/LICENSE) for the full license text.
+
+
 ---
 Made with :heart: by [Willowgreen](https://willowgreen.io/opensource)
 
