@@ -13,7 +13,7 @@ $ apt update && apt install -y git
 $ git clone https://github.com/willowgreengroup/devops-scripts.git
 $ cd devops-scripts
 $ chmod +x prep.sh
-./prep.sh
+$ ./prep.sh
 ```
 
 ## Code of Conduct
