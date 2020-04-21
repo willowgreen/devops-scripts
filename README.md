@@ -10,7 +10,7 @@ Currently this repo includes scripts for:
 
 
 ## Getting started
-```
+```bash
 $ apt update && apt install -y git
 $ git clone https://github.com/willowgreengroup/devops-scripts.git
 $ cd devops-scripts
@@ -29,7 +29,7 @@ Vault | A tool for secrets management, encryption as a service, and privileged a
 
 
 ## Updating
-```
+```bash
 $ ./update.sh
 ```
 
