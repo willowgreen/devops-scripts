@@ -19,12 +19,13 @@ $ ./prep.sh
 ```
 
 ## Docker containers
-Currently there are creation scripts for the following Docker images: 
-- [Cassandra](https://hub.docker.com/_/cassandra) ([website](https://cassandra.apache.org/))
-- [Grafana](https://hub.docker.com/r/grafana/grafana) ([website](https://grafana.com/))
-- [Portainer](https://hub.docker.com/r/portainer/portainer) ([website](https://portainer.io/))
-- [Prometheus](https://hub.docker.com/r/prom/prometheus) ([website](https://prometheus.io/))
-- [Vault](https://hub.docker.com/_/vault) ([website](https://www.vaultproject.io/))
+Software | Description | Docker Hub | Website
+--- | --- | --- | --- 
+Cassandra | A highly-scalable partitioned row store. | [_/cassandra](https://hub.docker.com/_/cassandra) | [link](https://cassandra.apache.org/)
+Grafana | A tool for beautiful monitoring and metric analytics & dashboards. | [grafana/grafana](https://hub.docker.com/r/grafana/grafana) | [link](https://grafana.com/)
+Portainer | A lightweight management UI which allows you to easily manage your different Docker environments. | [portainer/portainer](https://hub.docker.com/r/portainer/portainer) | [link](https://portainer.io/)
+Prometheus | A systems and service monitoring system. | [prom/prometheus](https://hub.docker.com/r/prom/prometheus) | [link](https://prometheus.io/)
+Vault | A tool for secrets management, encryption as a service, and privileged access management. | [_/vault](https://hub.docker.com/_/vault) | [link](https://www.vaultproject.io/)
 
 
 ## Updating
