@@ -16,8 +16,18 @@ $ chmod +x prep.sh
 $ ./prep.sh
 ```
 
+
+## Updating
+```
+$ ./update.sh
+```
+
+That's it!
+
+
 ## Code of Conduct
 This project has adopted Willowgreen's Open Source Code of Conduct, which can be found [under the *Documents* heading on Willowgreen's Open Source page](https://willowgreen.io/opensource). Please do not hesitate to contact [opensource@willowgreen.io](mailto:opensource@willowgreen.io) if you have any queries, comments, or concerns.
+
 
 ---
 Made with :heart: by [Willowgreen](https://willowgreen.io/opensource)
