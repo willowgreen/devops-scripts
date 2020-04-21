@@ -18,6 +18,14 @@ $ chmod +x prep.sh
 $ ./prep.sh
 ```
 
+## Docker containers
+Currently there are creation scripts for the following Docker images: 
+- [Cassandra](https://hub.docker.com/_/cassandra) ([website](https://cassandra.apache.org/))
+- [Grafana](https://hub.docker.com/r/grafana/grafana) ([website](https://grafana.com/))
+- [Portainer](https://hub.docker.com/r/portainer/portainer) ([website](https://portainer.io/))
+- [Prometheus](https://hub.docker.com/r/prom/prometheus) ([website](https://prometheus.io/))
+- [Vault](https://hub.docker.com/_/vault) ([website](https://www.vaultproject.io/))
+
 
 ## Updating
 ```
