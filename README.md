@@ -2,7 +2,8 @@
 
 # devops-scripts
 Our homemade scripts for usage in devops pipelines.
-Currently includes scripts for:
+
+Currently this repo includes scripts for:
 - [Docker](https://docker.com/)
 - [GitLab](https://about.gitlab.com/)
 - [Kubernetes](https://kubernetes.io/)
