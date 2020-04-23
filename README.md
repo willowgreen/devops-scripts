@@ -6,6 +6,7 @@ Our homemade scripts for usage in devops pipelines.
 Currently this repo includes scripts for:
 - [Docker](https://docker.com/)
 - [GitLab](https://about.gitlab.com/)
+- [Jenkins](https://jenkins.io/)
 - [Kubernetes](https://kubernetes.io/)
 
 
