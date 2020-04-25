@@ -4,7 +4,7 @@
 vaultConfigDir=/srv/vault/config
 mkdir -p $vaultConfigDir
 #
-vaultFileDir=/srv/vaule/file
+vaultFileDir=/srv/vault/file
 mkdir -p $vaultFileDir
 #
 sudo docker run -d \
@@ -12,5 +12,5 @@ sudo docker run -d \
 -v $vaultConfigDir:/vault/config \
 -v $vaultFileDir:/vault/file \
 --restart always \
---name vault
+--name vault \
 vault
